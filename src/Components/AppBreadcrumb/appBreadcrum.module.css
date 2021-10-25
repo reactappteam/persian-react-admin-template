@@ -1,0 +1,3 @@
+.breadcrum{
+    @apply w-full h-12 bg-white border-b border-gray px-8 items-center flex flex-row-reverse text-sm text-gray
+}

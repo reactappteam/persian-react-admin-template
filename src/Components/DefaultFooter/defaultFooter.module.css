@@ -1,0 +1,6 @@
+.appFooter{
+    width: calc(100% - 208px);
+    color: #23282c;
+    background: #f0f3f5;
+    @apply flex flex-wrap items-center px-4 border-t border-gray h-14 absolute bottom-0 mr-52 justify-center 
+}

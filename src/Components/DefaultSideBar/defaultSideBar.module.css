@@ -1,0 +1,9 @@
+.sideBar{
+    @apply fixed w-52 h-screen bg-sidebar
+}
+.nav{
+    @apply w-full flex-col min-h-full p-0 mt-14
+}
+.nav li{
+    @apply flex flex-row-reverse items-center justify-between px-2 h-11 text-white
+}

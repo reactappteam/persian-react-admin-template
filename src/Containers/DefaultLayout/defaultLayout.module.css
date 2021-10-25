@@ -1,0 +1,9 @@
+.appBody{
+    @apply flex overflow-x-hidden flex-grow flex-row-reverse min-h-screen bg-container
+}
+.main{
+    @apply flex-grow flex-shrink w-full h-full     mr-52 mt-14
+}
+.container{
+    @apply px-8 py-4
+}
